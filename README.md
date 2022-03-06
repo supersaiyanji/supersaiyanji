@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supersaiyanji
+- 👋 Hi, I’m @supersaiyan
 - 👀 I’m interested in Developing and creating new softwares.
 - 🌱 I’m currently Pursuing MAster of Computer Application (MCA).
 - 📫 You can reaach me Gmail: shivambhatia270@gmail.com
